@@ -1,4 +1,4 @@
-# GreenSock Animations, JavaScriptMarathon.com (This Dot Media)
+# GreenSock Animations, JavaScriptMarathon.com
 
 https://www.youtube.com/watch?v=ovRXOZogpzw&feature=youtu.be
 
